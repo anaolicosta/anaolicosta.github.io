@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Coming soon!
+
+<!--
+
 Education
 ======
 * 
@@ -41,3 +45,4 @@ Teaching
 Service and leadership
 ======
 * 
+-->
