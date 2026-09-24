@@ -15,8 +15,12 @@ I’m motivated by the belief that a unified approach to the verification of hyp
 
 
 
-## 📣 News
-* ** Dec 2025 **: Extended version of [Hypernode Automata](https://doi.org/10.4230/LIPIcs.FSTTCS.2025.20) published at Acta Informatica. 
+## 📣 News    
+* **Aug 2026**: *Reasoning About Hyperproperties with Automated Theorem Provers* accepted ar LPAR'26
+* **Aug 2026**: *Monitoring Hyperproperties over Observed and Constructed Traces* accepted at RV'26.
+* **Jul 2026**: Co-organizing the [HYPER workshop at FLoC](https://hyperworkshop26.cispa.io/)
+* **Feb 2026**: Co-organizing the [Logic Mentoring Workshop at CSL](https://logic-mentoring-workshop.github.io/csl26/).
+* **Dec 2025**: Extended version of [Hypernode Automata](https://doi.org/10.4230/LIPIcs.FSTTCS.2025.20) published at Acta Informatica. 
 * **Sept 2025**: [Flavors of Quantifiers in Hyperlogics](https://doi.org/10.4230/LIPIcs.FSTTCS.2025.20) acepted at FSTTCS'25. See you in Goa!
 * **Sept 2025**: [Dagstuhl Seminar on Hyperproperties](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/27101) accepted 🎉 !
 * **Aug 2025**: [Gray-box runtime enforcement of hyperproperties](https://doi.org/10.1007/s00236-025-00502-1) published at Acta Informatica. 
